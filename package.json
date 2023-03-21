@@ -1,0 +1,19 @@
+{
+  "name": "chekpoint_mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "asma_tababi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.2",
+    "nodemon": "^2.0.21"
+  },
+  "devDependencies": {},
+  "description": ""
+}
